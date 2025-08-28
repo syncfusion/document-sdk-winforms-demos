@@ -13,7 +13,7 @@ This section guides you to use the Syncfusion Document SDK Winforms demos in you
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
-The samples requires Visual Studio 2010 or higher to build, test and deploy. 
+The samples requires Visual Studio 2017 or higher to build, test and deploy. 
 
 ## <a name="how-to-run-the-demos"></a>How to run the demos
 
@@ -21,19 +21,19 @@ The samples requires Visual Studio 2010 or higher to build, test and deploy.
 You can run individual demos for specific document formats:
 
 #### Word Processing (DocIO)
-* Open Sample folder you want from from the **docio** folder.
+* Navigate to any sample from the **docio** folder.
 * Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
 
 #### PDF Processing
-* Open Sample folder you want from from the **pdf** folder.
+* Navigate to any sample from the **pdf** folder.
 * Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
 
 #### PowerPoint Processing
-* Open Sample folder you want from from the **presentation** folder.
+* Navigate to any sample from the **presentation** folder.
 * Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
 
 #### Excel Processing (XlsIO)
-* Open Sample folder you want from the **xlsio** folder.
+* Navigate to any sample from the **xlsio** folder.
 * Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
 
 **Notes:** While downloading the zip file, follow below steps
@@ -93,11 +93,12 @@ You can run individual demos for specific document formats:
 * Animation and transition support
 
 #### Excel Processing (XlsIO)
-* Create, read, and edit Excel workbooks
-* Convert Excel files to PDF, HTML, and images
-* Charts and pivot table support
-* Formula calculations and data validation
-* Worksheet protection and encryption
+* Create, read, and edit Excel workbooks and worksheets
+* Convert Excel files to PDF, images, HTML, and CSV
+* Support for 400+ Excel formulas and formula calculation engine
+* Create and manipulate charts, sparklines, and pivot tables
+* Apply conditional formatting, data validation, and filters
+* Protect worksheets and workbooks with password encryption
 
 ## <a name="documentation"></a>Documentation
 
