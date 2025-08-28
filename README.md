@@ -22,19 +22,19 @@ You can run individual demos for specific document formats:
 
 #### Word Processing (DocIO)
 * Navigate to any sample from the **docio** folder.
-* Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
+* Select and run projects targeting 2017, .NET 8.0, or .NET 9.0 frameworks.
 
 #### PDF Processing
 * Navigate to any sample from the **pdf** folder.
-* Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
-
+* Select and run projects targeting 2017, .NET 8.0, or .NET 9.0 frameworks.
+  
 #### PowerPoint Processing
 * Navigate to any sample from the **presentation** folder.
-* Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
+* Select and run projects targeting 2017, .NET 8.0, or .NET 9.0 frameworks.
 
 #### Excel Processing (XlsIO)
 * Navigate to any sample from the **xlsio** folder.
-* Choose between 2017, .NET 8.0 or .NET 9.0 project versions.
+* Select and run projects targeting 2017, .NET 8.0, or .NET 9.0 frameworks.
 
 **Notes:** While downloading the zip file, follow below steps
 * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
